@@ -99,3 +99,9 @@ theme: xups
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+# hexo-admin authentification
+admin:
+  username: admin
+  password_hash: $2a$10$wdUQpn6kQaQV9FspNyRJW.1nVnZXl.LNzCrglyCsDC75IDz.F1gle
+  secret: password
